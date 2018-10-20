@@ -1,0 +1,14 @@
+{
+  "name": "otr",
+  "version": "1.0.0",
+  "description": "OTR Coding Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || exit 0"
+  },
+  "author": "Tim Tsogbayar",
+  "license": "ISC",
+  "dependencies": {
+    "csv-string": "^3.1.5"
+  }
+}
